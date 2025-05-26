@@ -31,5 +31,28 @@
 				{/each}
 			</select>
 		</fieldset>
+		<fieldset class="fieldset">
+			<legend class="fieldset-legend">Show actions</legend>
+			<label class="label">
+				<input type="checkbox" checked="checked" class="checkbox" />
+				Go to feed
+			</label>
+			<label class="label">
+				<input type="checkbox" checked="checked" class="checkbox" />
+				Mark as read
+			</label>
+			<label class="label">
+				<input type="checkbox" checked="checked" class="checkbox" />
+				Add to bookmark
+			</label>
+			<label class="label">
+				<input type="checkbox" checked="checked" class="checkbox" />
+				Visit original link
+			</label>
+			<label class="label">
+				<input type="checkbox" checked="checked" class="checkbox" />
+				Share
+			</label>
+		</fieldset>
 	</div>
 </Section>
